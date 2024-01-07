@@ -8,3 +8,6 @@
 
 ## [Assignment 3](https://github.com/arunk7033/ML_Assignment/blob/main/Assignment_3.ipynb)
  - *This assignment tests the concepts of Applications in Business, Ethical Concerns in Machine Learning, Human Learning, Examples of Machine Learning, Forms of Machine Learning, Well-Posed Learning Problem, Machine Learning's Limitations, Methods and Technologies for ML, Forms of Supervised Learning, Supervised vs. Unsupervised Learning and Comparison Concepts between Generalization vs. Abstraction, Guided Learning vs. Unsupervised Learning and Regression vs. Classification.*
+
+## [Assignment 4](https://github.com/arunk7033/ML_Assignment/blob/main/Assignment_4.ipynb)
+ - *This assignment tests the concepts of Data Preparation, Types of Data, Attribute Types, Feature Selection vs. Dimensionality Reduction, Exploratory Data Analysis (EDA), Histograms and Bins, Outlier Handling, Central Inclination Measures, Scatter Plots and Outliers and Cross-Tabs for Relationship Exploration.*
