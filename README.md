@@ -11,3 +11,6 @@
 
 ## [Assignment 4](https://github.com/arunk7033/ML_Assignment/blob/main/Assignment_4.ipynb)
  - *This assignment tests the concepts of Data Preparation, Types of Data, Attribute Types, Feature Selection vs. Dimensionality Reduction, Exploratory Data Analysis (EDA), Histograms and Bins, Outlier Handling, Central Inclination Measures, Scatter Plots and Outliers and Cross-Tabs for Relationship Exploration.*
+
+## [Assignment 5](https://github.com/arunk7033/ML_Assignment/blob/main/Assignment_5.ipynb)
+ - *This assignment tests the concepts of Machine Learning Tasks, Quantitative and Qualitative Data, Basic Data Collection, Causes of ML Data Issues, Approaches to Categorical Data Exploration, Effect of Missing Values, Dealing with Missing Data, Data Pre-processing Techniques, Box Plot and IQR, Brief Notes on Concepts: Data Collected at Regular Intervals, The Gap Between the Quartiles and Use a Cross-Tab and Comparisons: Data with Nominal and Ordinal Values, Histogram and Box Plot and Average and Median.*
