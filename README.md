@@ -14,3 +14,6 @@
 
 ## [Assignment 5](https://github.com/arunk7033/ML_Assignment/blob/main/Assignment_5.ipynb)
  - *This assignment tests the concepts of Machine Learning Tasks, Quantitative and Qualitative Data, Basic Data Collection, Causes of ML Data Issues, Approaches to Categorical Data Exploration, Effect of Missing Values, Dealing with Missing Data, Data Pre-processing Techniques, Box Plot and IQR, Brief Notes on Concepts: Data Collected at Regular Intervals, The Gap Between the Quartiles and Use a Cross-Tab and Comparisons: Data with Nominal and Ordinal Values, Histogram and Box Plot and Average and Median.*
+
+## [Assignment 6](https://github.com/arunk7033/ML_Assignment/blob/main/Assignment_6.ipynb)
+ - *This assignment tests the concepts of Model in Machine Learning, No Free Lunch Theorem, K-fold Cross-Validation, Bootstrap Sampling, Kappa Value for Classification, Model Ensemble, Descriptive Models, Evaluating Linear Regression, Distinguishing Concepts: Descriptive vs. Predictive Models, Underfitting vs. Overfitting and Bootstrapping vs. Cross-Validation and Quick Notes: LOOCV, F-measurement, Silhouette Width and ROC Curve.*
