@@ -17,3 +17,6 @@
 
 ## [Assignment 6](https://github.com/arunk7033/ML_Assignment/blob/main/Assignment_6.ipynb)
  - *This assignment tests the concepts of Model in Machine Learning, No Free Lunch Theorem, K-fold Cross-Validation, Bootstrap Sampling, Kappa Value for Classification, Model Ensemble, Descriptive Models, Evaluating Linear Regression, Distinguishing Concepts: Descriptive vs. Predictive Models, Underfitting vs. Overfitting and Bootstrapping vs. Cross-Validation and Quick Notes: LOOCV, F-measurement, Silhouette Width and ROC Curve.*
+
+## [Assignment 7](https://github.com/arunk7033/ML_Assignment/blob/main/Assignment_7.ipynb)
+ - *This assignment tests the concepts of Target Function, Predictive vs. Descriptive Models, Classification Model Efficiency Assessment, Underfitting, Overfitting, and Bias-Variance Trade-Off, Boosting for Model Efficiency, Unsupervised Learning Model Success, Using Classification Model for Numerical Data or Regression for Categorical Data, Predictive Modeling for Numerical Values, Classification Model Evaluation with Collected Data, Quick Notes on Processes: Holding Out, Tenfold Cross-Validation and Adjusting Parameters, Definitions: Purity vs. Silhouette Width, Boosting vs. Bagging and Eager Learner vs. Lazy Learner.*
