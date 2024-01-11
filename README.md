@@ -23,3 +23,6 @@
 
 ## [Assignment 8](https://github.com/arunk7033/ML_Assignment/blob/main/Assignment_8.ipynb)
  - *This assignment tests the concepts of Feature Definition, Circumstances Requiring Feature Construction, Encoding Nominal Variables, Conversion of Numeric to Categorical Features, Feature Selection Wrapper Approach, Feature Relevance and Irrelevance, Redundant Features and Criteria for Identification, Distance Measurements for Feature Similarity, Difference between Euclidean and Manhattan Distances, Distinguishing Feature Transformation and Selection and Brief Notes on: Collection of Features Using a Hybrid Approach and Receiver Operating Characteristic (ROC) Curve.*
+
+## [Assignment 9](https://github.com/arunk7033/ML_Assignment/blob/main/Assignment_9.ipynb)
+ - *This assignment tests the concepts of Feature Engineering, Feature Selection, Filter and Wrapper Approaches, Overall Feature Selection Process, Feature Engineering in Text Categorization, Cosine Similarity in Text Categorization, Distance Measures, High-Dimensional Data, Quick Notes: PCA (Principal Component Analysis), Use of Vectors , Embedded Technique and Comparisons:  Sequential Backward Exclusion vs. Sequential Forward Selection, Filter vs. Wrapper Feature Selection Methods and SMC vs. Jaccard Coefficient.*
